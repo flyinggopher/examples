@@ -1,1 +1,1 @@
-# full_examples
+# examples
